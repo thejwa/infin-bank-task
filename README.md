@@ -1,0 +1,1 @@
+<h3> Swagger UI is available on <a href="http://localhost:8081/ui">http://localhost:8081/ui</a> </h3>
